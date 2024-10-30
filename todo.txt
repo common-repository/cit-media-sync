@@ -1,0 +1,3 @@
+- add more icons, depending on file types
+- show thumbnails for images?
+- internationalization
